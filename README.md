@@ -27,4 +27,19 @@ The Vrinda Store Wants to Create an Annual Report on the basis of 2022. So that,
 ## Dashboard
 <img width="594" alt="Screenshot of dashboard" src="https://github.com/user-attachments/assets/fcc672a1-77ad-4f80-aacb-5e88731987cf" />
 
+## Project Insights
+-	Women are more likely to buy compared to men ( 65% ).					
+-	Maharashtra, Karnataka and Uttar Pradesh are the Top 3 State.					
+-	Adult age group (30-49 yrs) is max contributing (50%) and Buys the most products.				
+-	Amazon, Flipkart and Myntra channels are maximum contributing from the customers.
+-	More than 90% of the product delivered.
+
+## Final Conclusion to Improve Vrinda Store
+Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/											
+coupons available on Amazon, Flipkart and Myntra.											
+
+
+
+
+
 
