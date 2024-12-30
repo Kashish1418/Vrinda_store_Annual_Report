@@ -18,3 +18,13 @@ The Vrinda Store Wants to Create an Annual Report on the basis of 2022. So that,
 
 - Dashboard Interaction <a href="https://github.com/Kashish1418/Vrinda_store_Annual_Report/blob/main/Screenshot%20of%20dashboard.png">View Dashboard</a>
 
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is Consistent and Clean with respect to data type, data format and values used.
+- Created pivot tables according to the Questions.
+- Merge pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="594" alt="Screenshot of dashboard" src="https://github.com/user-attachments/assets/fcc672a1-77ad-4f80-aacb-5e88731987cf" />
+
+
